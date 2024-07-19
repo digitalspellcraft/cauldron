@@ -1,9 +1,14 @@
-# ☕ The Exquisite Aroma of Cardamom
+---
+title: "The Exquisite Aroma of Cardamom"
+layout: post
+author: “Jennifer”
+categories: aromatherapy
+---
 
-Dear connoisseur of well-being,
+# ☕ Step into the aromatic world of Cardamom
+<!-- excerpt_separator -->
 
-Step into the aromatic world of Cardamom essential oil, where the
-rich and exotic notes of this spice become a fragrant tapestry for your
+where the rich and exotic notes of this spice become a fragrant tapestry for your
 journey to holistic living. As your dedicated guide in the realm of
 self-care, let me unfold the captivating benefits of Cardamom and share
 how you can weave its elegance into the fabric of your daily rituals.
