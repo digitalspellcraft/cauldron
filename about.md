@@ -1,6 +1,6 @@
 ---
 layout: post
-title: about
+title: About
 ---
 
 ✨ The Tome of DigitalSpellCraft ✨
