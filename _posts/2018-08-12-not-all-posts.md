@@ -1,12 +1,12 @@
 ---
 title: ""
 layout: post
-author: "Pat Dryburgh"
+author: "Jennifer"
 categories: opinion
 ---
 
-Not all posts need a title.
+Not all websites need content.
 
 <!-- excerpt_separator -->
 
-They sometimes just want to be left alone.
+Sometimes they just want to be left alone. 🥁
