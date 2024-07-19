@@ -2,7 +2,7 @@
 title: "Fragrant Futures"
 layout: post
 author: "Jennifer"
-categories: aromatherapy
+categories: neurodivergence
 ---
 
 Technological Innovations in Aromatherapy
