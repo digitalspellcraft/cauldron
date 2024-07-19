@@ -3,7 +3,7 @@ layout: post
 title: about
 ---
 
-✨ Weaving Digital Enchantment into Your Brand’s Tale ✨
+✨ The Tome of DigitalSpellCraft ✨
 
 Greetings! I’m Jennifer, your trusted digital sorceress 🔮. Blending Louisiana’s mystical charm 🌙 with cutting-edge tech wizardry 💻, I conjure captivating designs to elevate your brand’s essence ✨.
 
