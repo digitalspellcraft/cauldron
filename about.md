@@ -1,21 +1,28 @@
 ---
 layout: post
-title: About
+title: about
 ---
 
-💫 Let’s Create Enchanting Digital Experiences Together 💫
+✨ Weaving Digital Enchantment into Your Brand’s Tale ✨
 
-My unique blend of creativity and tech expertise will help your brand dazzle online. Here’s what I can conjure for you:
+Greetings! I’m Jennifer, your trusted digital sorceress 🔮. Blending Louisiana’s mystical charm 🌙 with cutting-edge tech wizardry 💻, I conjure captivating designs to elevate your brand’s essence ✨.
 
-🔮 Bewitching Web Design & Development: A captivating website that reflects your brand essence and enchants your audience.
+💖 My Vision: A Blend of Heart and Tech 💖
 
-🎨 Captivating Graphic Design & Branding: From mystical logos to striking social media visuals, I’ll create designs that leave a memorable impression.
+With roots in IT support, UI/UX design, and content management, my expertise intertwines technical prowess with creative flair. Infused with aromatherapy magic 🌿, each project nurtures well-being and resonance.
 
-🌿 Personalized Aromatherapy Consultations: Explore the magic of essential oils and create a custom aromatic experience suited to your needs.
+🌟 Captivate Your Audience 🌟
 
-💻 Tech Support with a Mystical Twist: Vanquish tech troubles with my skilled troubleshooting and website maintenance services.
+I cast digital spells 🪄 to transform your brand into an immersive experience ✨. From bespoke websites 🕸️ that echo your story to spellbinding brand identities 🧿 and enthralling content 📢, I weave digital enchantment in every pixel.
 
-✨ Custom Projects: Bring your unique vision to life with my personalized design and development solutions.
+❤️ Designs with Soul ❤️
 
-Ready for a magical transformation? 
-Let’s conjure something extraordinary together! 🌟
+My holistic approach, shaped by Integrative Health and Aromatherapy, crafts designs to be felt, not just seen 👀🥰. I believe in forging emotional bonds 🤝 and weaving a rich tapestry of artistry and intention ✨.
+
+🌿 Inspired by Nature’s Enchantment 🌿
+
+My passion for literature 📚, writing ✍️, fishing 🎣, and hiking 🥾 ignites my creative flame. This kinship with nature 🌿 imbues my designs with a soul-stirring quality that captivates and inspires ✨.
+
+🤝 Conjuring the Extraordinary Together! 🤝
+
+Ready to weave magic into your brand’s tale? Connect through my website 🌐 or join my social media journey ✨. Together, let’s brew something extraordinary! ✨
