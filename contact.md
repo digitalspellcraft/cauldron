@@ -3,7 +3,7 @@ layout: post
 title: Summon the Magic
 ---
 
-Embark on an Enchanted Journey for Your Brand! ✨
+Embark on an Enchanted Journey for Your Brand! 
 
 Prepare to infuse your online presence with a touch of magic! Let’s connect and begin our extraordinary adventure together. 
 
