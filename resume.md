@@ -4,6 +4,7 @@ title: Chronicles of a Code Alchemist
 ---
 
 Transforming Your Digital Realm 
+
 I’m a Creative Technologist weaving digital enchantment with skills in IT, UI/UX, and content management.
 
 My Magical Services: 
