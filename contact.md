@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summon the Magic
+title: Summon 
 ---
 
 Embark on an Enchanted Journey for Your Brand! 
