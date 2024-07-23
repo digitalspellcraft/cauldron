@@ -37,6 +37,4 @@ Personalized Quote - Ask Me Anything. Let’s discuss your unique vision and cre
 
 Start Your Magical Journey Today! Schedule a complimentary consult to explore the perfect plan for your business.
 
-Custom Projects:
 
-Personalized quote: Ask Me Anything. Let’s discuss your unique vision and create a divinely guided quote for your project. Start Your Magical Journey Today! Schedule a complimentary consult to explore the perfect plan for your business. 
