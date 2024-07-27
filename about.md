@@ -5,24 +5,20 @@ title: About
 
 The Tome of DigitalSpellCraft
 
-Greetings! I’m Jennifer, your trusted digital sorceress. Blending Louisiana’s mystical charm with cutting-edge tech wizardry, I conjure captivating designs to elevate your brand’s essence.
+Hello! I’m Jennifer, a Gardyn Ambassador and Damsel in Defense Safety Educator, dedicated to enhancing personal well-being through sustainable gardening and effective safety solutions.
 
-My Vision: A Blend of Heart and Tech 
+My Vision: Wellness and Protection
 
-With roots in IT support, UI/UX design, and content management, my expertise intertwines technical prowess with creative flair. Infused with aromatherapy magic, each project nurtures well-being and resonance.
+Combining IT support expertise with a strong focus on health and safety, I integrate essential knowledge to promote both internal wellness and personal security. As a Gardyn Ambassador, I advocate for the benefits of homegrown produce, while my role as a Damsel in Defense Safety Educator provides you with crucial safety tools and knowledge.
 
-Captivate Your Audience 
+Empower Your Well-being
 
-I cast digital spells to transform your brand into an immersive experience. From bespoke websites that echo your story to spellbinding brand identities and enthralling content, I weave digital enchantment in every pixel.
+I offer practical strategies to elevate your approach to health and safety. From sustainable gardening practices to comprehensive safety education, my goal is to deliver solutions that resonate with your daily life.
 
-Designs with Soul 
+Guided by Nature and Safety
 
-My holistic approach, shaped by Integrative Health and Aromatherapy, crafts designs to be felt, not just seen. I believe in forging emotional bonds and weaving a rich tapestry of artistry and intention.
+My love for gardening, literature, and outdoor activities shapes my approach, merging a deep connection to nature with a commitment to personal safety. This perspective ensures that my guidance is both inspiring and practical.
 
-Inspired by Nature’s Enchantment
+Let’s Achieve Something Great!
 
-My passion for literature, writing, fishing, and hiking ignites my creative flame. This kinship with nature imbues my designs with a soul-stirring quality that captivates and inspires.
-
-Conjuring the Extraordinary Together! 
-
-Ready to weave magic into your brand’s tale? Connect through my website or join my social media journey. Together, let’s brew something extraordinary!
+Ready to enhance your well-being with a focus on health and safety? Connect with me through my website or join my social media journey. Together, we’ll create impactful solutions that make a difference!
