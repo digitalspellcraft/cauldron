@@ -48,6 +48,5 @@ Cost-Benefit Analysis
 Produce Yield: Can produce 8 to 10 pounds of produce per month, valued at about $39.
 Break-Even Point: Initial and ongoing costs mean the system may take over two years to pay for itself through produce yield.
 
-Summary
 The Gardyn system offers the convenience of indoor gardening with fresh produce but involves significant costs. It's ideal for those passionate about indoor gardening rather than seeking a cost-saving solution for food production.
 
