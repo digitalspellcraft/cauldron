@@ -3,7 +3,7 @@ layout: post
 title: Background
 ---
 
-Creative Technologist | Gardyn Ambassador | Safety Educator 
+Creative Technologist, Gardyn Ambassador, Safety Educator 
 
 About Me
 
