@@ -6,6 +6,7 @@ title: Background
 Creative Technologist | Gardyn Ambassador | Safety Educator 
 
 About Me
+
 I’m Jennifer, a seasoned Creative Technology Specialist with over a decade of experience in graphic design, UI/UX, and IT support. Leading DigitalSpellCraft since 2015, I excel in enhancing client engagement through innovative tech solutions. My background as a UI/UX Web Designer and Content Editor has honed my design skills and strategic approach to digital transformation. 
 
 Skills and Expertise
