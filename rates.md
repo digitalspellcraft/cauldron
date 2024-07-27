@@ -7,8 +7,9 @@ Garden of Health, Fortress of Safety: Accessible Wellness and Protection
 
 Tech Support:
 
-Troubleshooting: $29.95/m - Individual tech support provided by a DigitalDamsel expert.
-                 $59.95/m - Family tech support provided by a DigitalDamsel expert.
+Troubleshooting provided by a DigitalDamsel expert: 
+
+$29.95/m - Individual $59.95/m - Family 
                  
 Custom Projects:
 
