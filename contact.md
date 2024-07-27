@@ -4,6 +4,7 @@ title: Summon
 ---
 
 Embark on a Wellness and Safety Journey!
+
 Elevate your well-being and security with expert guidance! Let’s connect and embark on an enriching journey together.
 
 Whether you’re interested in sustainable home gardening, enhancing personal safety, or just have a question, I’m here to help.
