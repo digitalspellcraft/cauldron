@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-Hello! I’m Jennifer, a Gardyn Ambassador and Damsel in Defense Safety Educator, dedicated to enhancing personal well-being through sustainable gardening and effective safety solutions.
+Hey there! I’m Jennifer, a Gardyn Ambassador and Damsel in Defense Safety Educator, dedicated to enhancing personal well-being through sustainable gardening and effective safety solutions.
 
 My Vision: Wellness and Protection
 
