@@ -14,7 +14,6 @@ Skills and Expertise
 Tech Proficiency: Adobe Creative Suite, Figma, CMS, HTML/CSS
 Tech Support: End-to-end troubleshooting, project management
 Design and Branding: Creating visually compelling and user-focused designs
-Safety Education: Damsel in Defense safety training
 Wellness: Personalized aromatherapy consultations
 
 Work Experience
@@ -63,7 +62,7 @@ Certifications and Skills
 
 Technical Skills: CSS, WordPress, HTML5, SEO tools
 Design Expertise: Typography, Branding, Web Design
-Safety and Wellness: Personal safety education, Aromatherapy
+Wellness: Aromatherapy
 Additional Information
 
 Active in community service and youth leadership roles.
