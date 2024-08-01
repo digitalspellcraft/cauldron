@@ -3,7 +3,7 @@ layout: post
 title: Background
 ---
 
-Creative Technologist, Gardyn Ambassador, Safety Educator 
+Creative Technologist
 
 About Me
 
@@ -69,6 +69,8 @@ Additional Information
 Active in community service and youth leadership roles.
 Engaged in educational programs and exhibit competitions.
 Demonstrates leadership and public speaking through various community projects.
+
+References available on request. 
 
 Let’s Connect
 I’m excited to bring my diverse skills and innovative perspective to dynamic opportunities. Reach out to explore how we can collaborate on your next project or safety initiative.
