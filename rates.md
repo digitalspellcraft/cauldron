@@ -3,20 +3,35 @@ layout: post
 title: Pricing
 ---
 
-Gardyn of Health, Fortress of Safety: Accessible Wellness and Protection
+Tech Support Services
+Hourly Rates:
 
-Tech Support provided by DigitalDamsel: 
+$35 - $75 per hour
 
-$29.95/m - Individual $59.95/m - Family 
+Monthly Retainer:
+
+Individual/Small Businesses: $500 - $2,000 per month
+
+Jekyll CMS Services
+Hourly Rates:
+
+$50 - $100 per hour
+
+Project-Based Pricing:
+
+Basic Website (Up to 5 pages): $500 - $1,500
+Intermediate Website (6-10 pages): $1,500 - $3,000
+Advanced Website (10+ pages, custom features): $3,000 - $10,000+
+Monthly Maintenance:
+
+Basic Maintenance: $100 - $500 per month
+Intermediate Maintenance: $500 - $1,500 per month
+Advanced Maintenance: $1,500+ per month
 
 1. Expert Assistance: Reliable tech support for both Mac and PC, ensuring your devices run smoothly.
 2. Troubleshooting: Quick resolutions for software and hardware issues.
 3. Maintenance: Regular updates and backups to keep your systems secure and efficient.
 
-Safety Education:
-
-1. Damsel in Defense: Learn practical self-defense strategies and gain access to personal safety tools.
-2. Workshops and Training: Empower yourself with knowledge and confidence through our safety workshops.
 
 Wellness Initiatives:
 
