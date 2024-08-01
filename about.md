@@ -3,15 +3,15 @@ layout: post
 title: About
 ---
 
-Hey there! I’m Jennifer, a Gardyn Ambassador and Damsel in Defense Safety Educator, dedicated to enhancing personal well-being through sustainable gardening and effective safety solutions.
+Hey there! I’m Jennifer, a Gardyn Ambassador and Creative Technologist, dedicated to enhancing personal well-being through sustainable gardening and effective technical solutions.
 
 My Vision: Wellness and Protection
 
-Combining IT support expertise with a strong focus on health and safety, I integrate essential knowledge to promote both internal wellness and personal security. I advocate for the benefits of homegrown produce, while providing you with crucial safety tools and knowledge.
+Combining IT support expertise with a strong focus on health, I integrate essential knowledge to promote both internal wellness and security. I advocate for the benefits of homegrown produce, while providing you with crucial tools and knowledge.
 
 Empower Your Well-being
 
-I offer practical strategies to elevate your approach to health and safety. From sustainable gardening practices to comprehensive safety education, my goal is to deliver solutions that resonate with your daily life.
+I offer practical strategies to elevate your approach to health and safety. From sustainable gardening practices to delivering solutions that resonate with your daily life.
 
 Guided by Nature and Safety
 
