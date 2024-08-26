@@ -13,7 +13,7 @@ Ask Me Anything, and I’ll respond promptly with practical advice and solutions
 
 Send a Message: No need for magic spells—though a touch of enthusiasm is always appreciated!
 
-Let’s Begin Crafting Your Path to Health and Safety!
+Let’s Begin Crafting Your Path to Health!
 
 Ready to enhance your wellness and security? I’m excited to hear your ideas and explore how we can make a meaningful impact together.
 
