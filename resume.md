@@ -15,7 +15,7 @@ Wellness: Personalized aromatherapy consultations
 
 Work Experience
 
-Creative Technology Specialist
+Creative Technologist
 DigitalSpellCraft LLC, Chalmette, LA
 April 2015 - Present
 
