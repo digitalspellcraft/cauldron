@@ -60,6 +60,7 @@ Certifications and Skills
 Technical Skills: CSS, WordPress, HTML5, SEO tools
 Design Expertise: Typography, Branding, Web Design
 Wellness: Aromatherapy
+
 Additional Information
 
 Active in community service and youth leadership roles.
