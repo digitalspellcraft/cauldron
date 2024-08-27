@@ -4,30 +4,28 @@ title: Pricing
 ---
 
 Tech Support Services
-Hourly Rates:
+Rates:
 
-$35 - $75 per hour
+Graphic Design $25/hr
+System Admin $35/hr
+Jekyll/Wordpress CMS $50/hr
+Network Admin $75/hr
 
 Monthly Retainer:
 
-Individual/Small Businesses: $500 - $2,000 per month
+Individual/Small Businesses: $1,200 - $2,000 
 
-Jekyll/Wordpress CMS Services
-Hourly Rates:
+Project-Based Per Website Pricing:
 
-$50 - $100 per hour
-
-Project-Based Pricing:
-
-Basic (Up to 5 pages): $500 - $1,500
-Intermediate (6-10 pages): $1,500 - $3,000
-Advanced (10+ pages, custom features): $3,000 - $10,000+
+Basic (5 pages): $800 - $1,500
+Intermediate (6-10 pages): $1,600 - $2,800
+Advanced (10+ pages, custom features): $3,500 +
 
 Monthly Maintenance:
 
-Basic Maintenance: $100 - $500 per month
-Intermediate Maintenance: $500 - $1,500 per month
-Advanced Maintenance: $1,500+ per month
+Basic: up to $500 per month
+Intermediate: up to $1,200 per month
+Advanced: up to $1,500 per month
 
 1. Expert Assistance: Reliable tech support for both Mac and PC, ensuring your devices run smoothly.
 2. Troubleshooting: Quick resolutions for software and hardware issues.
