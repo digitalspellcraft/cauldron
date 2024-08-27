@@ -16,7 +16,7 @@
 title: DigitalSpellCraft
 email: jennifer@digitalspellcraft.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Protect Your Life with Homegrown Health and Safety Tools.
+  Digital Solutions for the Creatively Driven.
 baseurl: "/cauldron" # the subpath of your site, e.g. /blog
 url: "https://digitalspellcraft.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
