@@ -21,11 +21,11 @@ Basic (5 pages): $800 - $1,500
 Intermediate (6-10 pages): $1,600 - $2,800
 Advanced (10+ pages, custom features): $3,500 +
 
-Monthly Maintenance:
+Optional Monthly Maintenance:
 
-Basic: up to $500 per month
-Intermediate: up to $1,200 per month
-Advanced: up to $1,500 per month
+Basic: up to $500 
+Intermediate: up to $1,200 
+Advanced: up to $1,500 
 
 1. Expert Assistance: Reliable tech support for both Mac and PC, ensuring your devices run smoothly.
 2. Troubleshooting: Quick resolutions for software and hardware issues.
