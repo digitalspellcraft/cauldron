@@ -12,7 +12,7 @@ Monthly Retainer:
 
 Individual/Small Businesses: $500 - $2,000 per month
 
-Jekyll CMS Services
+Jekyll/Wordpress CMS Services
 Hourly Rates:
 
 $50 - $100 per hour
