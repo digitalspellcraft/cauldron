@@ -19,9 +19,9 @@ $50 - $100 per hour
 
 Project-Based Pricing:
 
-Basic Website (Up to 5 pages): $500 - $1,500
-Intermediate Website (6-10 pages): $1,500 - $3,000
-Advanced Website (10+ pages, custom features): $3,000 - $10,000+
+Basic (Up to 5 pages): $500 - $1,500
+Intermediate (6-10 pages): $1,500 - $3,000
+Advanced (10+ pages, custom features): $3,000 - $10,000+
 
 Monthly Maintenance:
 
