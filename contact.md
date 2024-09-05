@@ -22,6 +22,9 @@ Ready to enhance your wellness and security? I’m excited to hear your ideas an
 <div class="contact-info">
   <p><strong>Email:</strong> <a href="mailto:jennifer@digitalspellcraft.com">jennifer@digitalspellcraft.com</a></p>
   <p><strong>Voicemail:</strong> <a href="tel:5045101878">504.510.1878</a></p>
-<p><strong>Wellness:</strong> <a href="https://links.digitalspellcraft.com/gardyn" target="_blank">@Gardyn</a></p>
+<p><strong>Home Decor:</strong> <a href="https://links.digitalspellcraft.com/dresden" target="_blank">@Dresden & Co</a></p>
+<p><strong>Indoor Gardyning:</strong> <a href="https://links.digitalspellcraft.com/gardyn" target="_blank">@Gardyn</a></p>
+
+
 
 </div>
